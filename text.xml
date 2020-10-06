@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<document>
+    <module lecture="2017396">Interactive Web Application&#33;</module>
+
+    <ca>
+        <title>My Frist App</title>
+        <submission_Time>23:59</submission_Time>
+        <submission_Date>30/10/2020</submission_Date>  
+    </ca>
+    <module>Advanced Datbases</module>
+    <module/>
+    <!-- This is a comment
+    This is a multiline comment -->
+</document>
